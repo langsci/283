@@ -1,5 +1,5 @@
 \documentclass[output=book,collection,collectionchapter,multiauthors,
-colorlinks, citecolor=brown,
+% colorlinks, citecolor=brown,
 % draft,
 % draftmode,
 ]{./langscibook}
@@ -11,7 +11,7 @@ colorlinks, citecolor=brown,
 \input{localcommands.tex} 
 \addbibresource{localbibliography.bib}
 
-\KOMAoptions{draft=false, overfullrule=true} %no rulers in draftmode
+% \KOMAoptions{draft=false, overfullrule=true} %no rulers in draftmode
 % \includeonly{chapters/heusinger}
 \begin{document}         
 \maketitle                
@@ -22,13 +22,13 @@ colorlinks, citecolor=brown,
 
 \mainmatter
 \renewcommand{\lsChapterFooterSize}{\scriptsize}
-\includepaper{chapters/introduction} 
-\includepaper{chapters/bisang} 
-\includepaper{chapters/borik} 
-\includepaper{chapters/danziger} 
-\includepaper{chapters/heusinger} 
-\includepaper{chapters/schiattarella} 
-\includepaper{chapters/skrzypek} 
+\includepaper{chapters/introduction}
+\includepaper{chapters/bisang}
+\includepaper{chapters/borik}
+\includepaper{chapters/danziger}
+\includepaper{chapters/heusinger}
+\includepaper{chapters/schiattarella}
+\includepaper{chapters/skrzypek}
 
 \input{backmatter.tex}
 \end{document}

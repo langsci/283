@@ -1416,6 +1416,7 @@ Storage and cataloguing done by \storageinstitution\\[3ex]
 	autolang=hyphen,
 	\iflsResetCapitals
         language=english,
+% 	useprefix=false,
     \fi
 	backend=\lsBiblatexBackend,
 	indexing=cite,
