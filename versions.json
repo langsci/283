@@ -1,7 +1,1 @@
-{"versions": [{"versiontype": "proofreading",
-		"title": "Nominal anchoring",
-		"authors": [{"name": "Kata Balogh"},{"name":" Anja Latrouite"},{"name":" Robert D. Van Valin"}],
-	"license": "CC-BY-4.0",
-	"publishedAt": "2020-08-13T08:23:50.000Z"}
-	]
-}
+{"versions": [{"authors": [{"name": "Kata Balogh"}, {"name": " Anja Latrouite"}, {"name": " Robert D. Van Valin"}], "title": "Nominal anchoring", "publishedAt": "2020-08-13T08:23:50.000Z", "license": "CC-BY-4.0", "versiontype": "proofreading"}, {"title": "Nominal anchoring", "versiontype": "first_edition", "license": "CC-BY-4.0", "publishedAt": "2020-10-21T10:25:23.325631", "authors": [{"name": "Kata Balogh"}, {"name": " Anja Latrouite"}, {"name": " Robert D. Van Valin"}]}]}
